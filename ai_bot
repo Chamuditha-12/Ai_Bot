@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DiSSMaC Chatbot Test</title>
+</head>
+
+<body>
+
+    <h1>Welcome to DiSSMaC Global</h1>
+    <p>This is a simple test page with chatbot.</p>
+
+    <!-- Tidio Chatbot Script -->
+    <script src="//code.tidio.co/u2ueqvijbvxnoqtwhqvkw6p2ygsom8s4.js" async></script>
+
+</body>
+</html>
